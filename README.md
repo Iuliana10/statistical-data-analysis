@@ -1,4 +1,3 @@
-# statistical-data-analysis
 # Analiză Statistică și Modelare Inferențială a Datelor
 
 Proiect aplicativ de analiză statistică realizat în IBM SPSS Statistics și Microsoft Excel, vizând explorarea datelor, modelarea relațiilor dintre variabile și testarea ipotezelor statistice.
